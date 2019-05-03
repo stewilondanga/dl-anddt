@@ -47,10 +47,11 @@ dl:nth-child(odd) {
   margin-right: 20px;
 }
 
-/*dl:hover {
+dl:hover {
   box-shadow: 0px 5px 0px 0px rgba(153, 153, 153, 0);
 }
-dl:hover:before {
+
+/*dl:hover:before {
   margin-left: 10px;
 }
 dl:before {
