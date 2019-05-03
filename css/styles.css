@@ -25,7 +25,7 @@ body {
   height: 1.5em;
 }
 
-/*dl {
+dl {
   height: 40vh;
   max-width: 70vh;
   width: 100%;
@@ -38,7 +38,8 @@ body {
   box-shadow: -5px 5px 5px 0px rgba(153, 153, 153, 0.05);
   transition: box-shadow 0.3s ease-out;
 }
-dl:nth-child(even) {
+
+/*dl:nth-child(even) {
   margin-left: 20px;
 }
 dl:nth-child(odd) {
