@@ -39,10 +39,11 @@ dl {
   transition: box-shadow 0.3s ease-out;
 }
 
-/*dl:nth-child(even) {
+dl:nth-child(even) {
   margin-left: 20px;
 }
-dl:nth-child(odd) {
+
+/*dl:nth-child(odd) {
   margin-right: 20px;
 }
 dl:hover {
